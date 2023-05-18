@@ -11,3 +11,5 @@
 
 ### Diagram of the postfix algorithm
 ![alt text](images/diagram_of_postfix.png)
+
+*https://en.wikipedia.org/wiki/Shunting_yard_algorithm*
