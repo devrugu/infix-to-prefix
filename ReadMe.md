@@ -10,4 +10,4 @@
 **This is supporting only **"+,-,/,*"** operators for now.**
 
 ### Diagram of the postfix algorithm
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Shunting_yard.svg/800px-Shunting_yard.svg.png)
+![alt text](images/diagram_of_postfix.png)
